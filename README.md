@@ -9,5 +9,5 @@ class Anh:
         self.name = "Anh Nguyen"
         self.role = "Data Specialist @ Graze.AI"
         self.study = "BMath in Mathematical Statistics, Waterloo"
-        self.tech = ["Python", "Scrapy", "FastAPI", "PyTorch", "Solidity"]
+        self.tech = ["Python", "Scrapy", "PyTorch", "FastAPI", "Solidity"]
         self.projects = ["Anti-GPTZero", "Political Leader Classifier", "Ordering Chatbot"]
